@@ -11,12 +11,12 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mingalabar/Minesweeper.git"
+    "url": "git+https://github.com/mingalabar/minesweeper.git"
   },
   "bugs": {
-    "url": "https://github.com/mingalabar/Minesweeper/issues"
+    "url": "https://github.com/mingalabar/minesweeper/issues"
   },
-  "homepage": "https://github.com/mingalabar/Minesweeper#readme",
+  "homepage": "https://github.com/mingalabar/minesweeper#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-preset-env": "^1.6.1"

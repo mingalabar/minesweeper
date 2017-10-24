@@ -1,3 +1,5 @@
+
+
 export class Board {
 	constructor(numberOfRows, numberOfColumns, numberOfBombs) {
 		this._numberOfRows = numberOfRows;

@@ -1,3 +1,5 @@
+
+
 // To play Minesweeper, we will create instances of MineSweeperGame in command line.
 // For example:
 // In the command line, navigate to the lib directory and run `node`
@@ -9,7 +11,7 @@
 // When done run `.exit`
 
 //let Board = require('./board.js');
-import { Board } from './board';
+import { Board } from './board.js';
 
 class Game {
 	constructor(numberOfRows, numberOfColumns, numberOfBombs) {
